@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fredees
 - 👀 I’m interested in discover something marvelous.
-- 🌱 I’m currently learning pathon.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on vs.code.
 - 📫 How to reach me lilianggg509@foxmail.com
 
